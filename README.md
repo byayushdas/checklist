@@ -22,4 +22,4 @@ This forms a solid baseline for any application tracking completion states on-ch
 
 ## Project Preview
 
-![Screenshot](proof.png)
+![Screenshot](image.png)
