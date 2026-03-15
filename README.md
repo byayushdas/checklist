@@ -19,3 +19,6 @@ This forms a solid baseline for any application tracking completion states on-ch
 
 ## Deployed Smart Contract Link
 **(https://lab.stellar.org/r/testnet/contract/CCM2QRFZ4W4GHYWN3KHIPEK2YOUNTPJWWBPXVFBOTCYKMWO4YAWNW5WO)** 
+
+### Proof of Deployment
+![Deployment Proof](proof.png)
