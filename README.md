@@ -18,4 +18,4 @@ This forms a solid baseline for any application tracking completion states on-ch
 - **Persistent State:** All tasks are recorded and retrieved from the Soroban contract instance storage.
 
 ## Deployed Smart Contract Link
-**XXX** *(Placeholder for the address once the contract is deployed on Testnet/Mainnet)*
+**(https://lab.stellar.org/r/testnet/contract/CCM2QRFZ4W4GHYWN3KHIPEK2YOUNTPJWWBPXVFBOTCYKMWO4YAWNW5WO)** 
