@@ -23,3 +23,4 @@ This forms a solid baseline for any application tracking completion states on-ch
 ## Project Preview
 
 ![Screenshot](image.png)
+![Screenshot](UI.png)
